@@ -1,7 +1,7 @@
 
-# Shichuyibushishiwu's GitHub
+# shiwu's GitHub
 
-👋 Hi, I'm Shichuyibushishiwu, a passionate developer specializing in .NET development. Welcome to my GitHub space!
+👋 Hi, I'm @shichuyibushishiwu, a passionate developer specializing in .NET development. Welcome to my GitHub space!
 
 ## About Me
 - 💻 Tech Stack: .NET, C#
